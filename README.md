@@ -8,3 +8,10 @@ Usage of solver_linux_amd64
   -port string
         listening Port (default "8888")
 ```
+
+### Response
+```
+{
+    "answer": 3
+}
+```
