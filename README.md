@@ -1,6 +1,8 @@
 # solver
 Solving Captchas
 
+Training Data 2443 Samples
+
 ```
 Usage of solver_linux_amd64
   -host string
